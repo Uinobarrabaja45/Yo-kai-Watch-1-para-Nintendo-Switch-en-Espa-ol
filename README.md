@@ -18,7 +18,6 @@ Traducción de textos realizada por: **Uino_45**, con aportes de **Raulree7**.
 
 Agradecimientos a **ChipLG08** por aportaciones en el inicio de la traducción.
 
-# Base de la traducción
+**Base de la traducción**: La traducción está basada en la traducción inglesa de **thaddayyus**.
 
-La traducción está basada en la traducción inglesa de **thaddayyus**.
 [Enlace de su mod inglés](https://gamebanana.com/mods/516048)
