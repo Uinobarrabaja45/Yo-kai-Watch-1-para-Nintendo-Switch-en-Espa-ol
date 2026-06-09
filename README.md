@@ -8,10 +8,7 @@ La Torre Excelencia es un servidor de Discord donde se traducen juegos de Yo-kai
 
 <img width="649" height="649" alt="image" src="https://github.com/user-attachments/assets/afbf3bec-6fc9-4f76-a22c-2a0080d63050" />
 
-# Base de la traducción
-La traducción está basada en la traducción inglesa de thaddayyus.
-[Enlace de su mod inglés](https://gamebanana.com/mods/516048)
-
+# Créditos
 
 Líder de la traducción: Uino_45
 
@@ -20,3 +17,8 @@ Traducción de imágenes: Principalmente realizada por Argelia, con contribucion
 Traducción de textos: Mayoritariamente realizada por Uino_45, con aportes de Raulree7.
 
 Agradecimientos a ChipLG08 por aportaciones en el inicio de la traducción.
+
+# Base de la traducción
+
+La traducción está basada en la traducción inglesa de thaddayyus.
+[Enlace de su mod inglés](https://gamebanana.com/mods/516048)
