@@ -4,7 +4,7 @@ Traducción del Yo-kai Watch 1 en Español, directamente del servidor La Torre E
 # La Torre Excelencia
 La Torre Excelencia es un servidor de Discord donde se traducen juegos de Yo-kai Watch y fangames hechos por la comunidad.
 
-[Enlace al servidor](https://discord.gg/2BgRquu8Yx)
+[Enlace al servidor](https://discord.gg/BJyZ55qg47)
 
 <img width="649" height="649" alt="image" src="https://github.com/user-attachments/assets/afbf3bec-6fc9-4f76-a22c-2a0080d63050" />
 
